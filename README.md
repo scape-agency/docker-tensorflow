@@ -1,2 +1,1 @@
-# docker-tensorflow
-Docker | TensorFlow
+# Docker | TensorFlow
